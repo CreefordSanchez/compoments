@@ -1,4 +1,4 @@
-##📘 React Components Introduction Project
+## 📘 React Components Introduction Project
 This is a basic React web page built as an introduction to components and props. The purpose of the assignment is to help you understand how to break down a web interface into reusable parts and pass data/styling into them using properties.
 <br>
 You’ll build and style a small site consisting of four main sections: a header, a hero banner, a gallery, and a footer. Each is represented by a React component and styled using custom CSS.
