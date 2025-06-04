@@ -1,0 +1,74 @@
+@import url('./utility.css');
+
+/*Header*/
+header {
+    height: 90px;
+    background-color: var(--app-orange);
+}
+
+header h1 {
+    font-weight: 600;
+}
+
+header a {
+    color: var(--app-black);
+}
+
+
+/*Hero Banner*/
+.hero-banner {
+    text-align: center;
+    width: 1000px;
+    margin-inline: auto;
+}
+
+.hero-banner h1 {
+    font-weight: 400;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+
+.button-list {
+    padding-top: 20px;
+    gap: 50px;
+}
+
+.button-list button {
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.secondary {
+    border: 2px solid var(--app-blue);
+    color: var(--app-blue);
+    background-color: var(--app-white);
+}
+
+.primary {
+    background-color: var(--app-blue);
+    color: var(--app-white);
+}
+/*Book List*/
+.book-list {
+    background-color: var(--app-pale-white);
+}
+.book-collection {
+    width: 700px;
+    margin-inline: auto;
+}
+
+.book-cover {
+    padding: 5px;
+}
+
+.book-cover img {
+    width: 150px;
+}
+
+/*Footer*/
+footer {
+    background-color: var(--app-black);
+    color: var(--app-white);
+    height: 70px;
+}
