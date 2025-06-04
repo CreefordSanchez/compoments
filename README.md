@@ -6,8 +6,6 @@ You’ll build and style a small site consisting of four main sections: a header
 ## 🧱Components Overview
 🧭 Header
 Displays the website’s title and a basic navigation menu.
-
-<br><br><br>
 Shows how layout and structure can be split into a top-level reusable component.
 
 <br><br><br>
